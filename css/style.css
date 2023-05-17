@@ -21,14 +21,14 @@
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255 255 255);
 }
 
 p {
   color: white;
   font-family: Helvetica Arial sans-serif;
   font-size: 1.5rem;
-  padding-top: 5pt;
+  padding-top: 15pt;
 }
 
 img {
